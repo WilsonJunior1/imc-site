@@ -21,6 +21,7 @@
 <h1 id="objective">🎯 Objective</h1>
  
 <p>Testar meus conhecimentos em lógica de programação, responsividade e mobile first.</p>
+<p>Seguindo o desing do website no <a href="https://www.figma.com/file/dwRsK0ZcD381JuSaNkikDK/imc-site?node-id=3%3A2">figma</a></p>
  
 <br/><br/>
  
